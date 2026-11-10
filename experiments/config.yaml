@@ -1,0 +1,3 @@
+project: fish-passage-telemetry
+seed: 17
+output: results/run01
